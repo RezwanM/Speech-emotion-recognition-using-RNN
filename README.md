@@ -4,9 +4,9 @@ This repository contains a step-by-step guide along with the project files neces
 
 The project is divided into three steps (directories).
 
-*Step 1*: Feature extraction.
-*Step 2*: Model training and testing.
-*Step 3*: Deploying the model.
+*Step 1*: Feature extraction.\
+*Step 2*: Model training and testing.\
+*Step 3*: Deploying the model.\
 
 Please go to each directory in the order listed above and complete all the tasks before proceeding to the next.
 
