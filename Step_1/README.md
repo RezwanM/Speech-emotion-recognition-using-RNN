@@ -18,4 +18,4 @@
 | Total Actors | 24 |
 | Age | 21 to 33 years |
 
-Please download the 'Audio_Speech_Actors_01-24.zip' file (225.5 MB)from this link https://zenodo.org/record/1188976#.YJ3tsKhKjIU and extract the zipped file anywhere on your machine.
+Please download the 'Audio_Speech_Actors_01-24.zip' file (208.5 MB) from this link https://zenodo.org/record/1188976#.YJ3tsKhKjIU and extract the zipped file anywhere on your machine.
