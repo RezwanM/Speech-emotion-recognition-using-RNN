@@ -21,3 +21,6 @@
 | Age | 21 to 33 years |
 
 Please download the 'Audio_Speech_Actors_01-24.zip' file (208.5 MB) from this link https://zenodo.org/record/1188976#.YJ3tsKhKjIU and extract the zipped file inside a new directory, naming it "RAVDESS", in a disk in your machine which has at least 600 MB of space available.
+
+
+3. *Create a new Python environment for this project*: It is recommended that you create a new environment for this project. That way, you won't overwrite the specific versions of the packages you already have in your current environment(s). However, if you don't mind installing everything in one environment, you can skip this step. Use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
