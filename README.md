@@ -12,6 +12,9 @@ Please go to each directory in the order listed above and complete all the tasks
 
 The entire project was built using Python 3.0 (using Anaconda).
 
+**Note**
+Please wait till a cell finishes running before you run the next cell in the Jupyter notebooks. If a cell is running, an hourglass icon will appear beside the file name on your browser's tab.
+
 **Prerequisites**
 
 1. *Install Python 3.0 in your machine*: I recommend downloading Anaconda distribution for your machine (Windows/Mac) and installing it. See the following link https://www.anaconda.com/products/individual
@@ -34,6 +37,3 @@ The entire project was built using Python 3.0 (using Anaconda).
 | Age | 21 to 33 years |
 
 3. *Create a new Python environment for this project*: It is recommended that you create a new environment for this project. That way, you won't overwrite the specific versions of the packages you already have in your current environment(s). However, if you don't mind installing everything in one environment, you can skip this step. Use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-
-**Note**
-Please wait till a cell finishes running before you run the next cell in the Jupyter notebooks. If a cell is running, an hourglass icon will appear beside the file name on your browser's tab.
