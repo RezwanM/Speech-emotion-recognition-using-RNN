@@ -12,7 +12,7 @@ Please go to each directory in the order listed above and complete all the tasks
 
 The entire project was built using Python 3.0 (using Anaconda).
 
-**Note:** Please wait till a cell finishes running before you run the next cell in the Jupyter notebooks. If a cell is running, an hourglass icon will appear beside the file name on your browser's tab.
+**Note:** Please wait till a cell finishes running before you run the next cell in the Jupyter notebooks. The cells need to run in the correct order for the project to work properly. If a cell is running, an hourglass icon will appear beside the file name on your browser's tab.
 
 **Prerequisites**
 
