@@ -44,4 +44,4 @@ The entire project was built using Python 3.0 (using Anaconda).
 •	Repetition (01 = 1st repetition, 02 = 2nd repetition).
 •	Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
-3. *Create a new Python environment for this project*: It is recommended that you create a new environment for this project. That way, you won't overwrite the specific versions of the packages you already have in your current environment(s). However, if you don't mind installing everything in one environment, you can skip this step. Use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+3. *Create a new Python environment for this project*: It is recommended that you create a new environment for this project. That way, you won't overwrite the specific versions of the packages you already have in your current environment(s). However, if you don't mind installing everything in your current environment and potentially changing the library versions, you can skip this step. Use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
