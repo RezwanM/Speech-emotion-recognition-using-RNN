@@ -16,13 +16,13 @@ The entire project was built using Python 3.0 (using Anaconda).
 
 **Libraries**
 
-Tensorflow v2.1.0
-h5py v2.10.0
-Scikit-learn v0.23.2
-Librosa v0.8.0
-Numba 0.48.0
-Numpy v1.18.5
-Pandas v1.1.1
+Tensorflow v2.1.0\
+h5py v2.10.0\
+Scikit-learn v0.23.2\
+Librosa v0.8.0\
+Numba 0.48.0\
+Numpy v1.18.5\
+Pandas v1.1.1\
 Matplotlib v3.1.3
 
 **Prerequisites**
@@ -55,4 +55,4 @@ Matplotlib v3.1.3
 •	Repetition (01 = 1st repetition, 02 = 2nd repetition).\
 •	Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
-3. *Create a new Python environment for this project*: It is recommended that you create a new environment for this project. That way, you won't overwrite the specific versions of the packages you already have in your current environment(s). However, if you don't mind installing everything in your current environment and potentially changing the library versions, you can skip this step. Use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+3. *Create a new Python environment for this project*: It is recommended that you create a new virtual environment for this project. That way, you won't overwrite the specific versions of the libraries you already have in your current environment. If your library versions are different from the ones used in this tutorial, you might get syntax errors at certain places. To create a new virtual environment in Anaconda, use this link https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
