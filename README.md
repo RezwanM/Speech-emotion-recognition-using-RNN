@@ -20,7 +20,7 @@ Tensorflow v2.1.0\
 h5py v2.10.0\
 Scikit-learn v0.23.2\
 Librosa v0.8.0\
-Numba 0.48.0\
+Numba v0.48.0\
 Numpy v1.18.5\
 Pandas v1.1.1\
 Matplotlib v3.1.3
