@@ -14,6 +14,17 @@ The entire project was built using Python 3.0 (using Anaconda).
 
 **Note:** Please wait till a cell finishes running before you run the next cell in the Jupyter notebooks. The cells need to run in the correct order for the project to work properly. If a cell is running, an hourglass icon will appear beside the file name on your browser's tab.
 
+**Libraries**
+
+Tensorflow v2.1.0
+h5py v2.10.0
+Scikit-learn v0.23.2
+Librosa v0.8.0
+Numba 0.48.0
+Numpy v1.18.5
+Pandas v1.1.1
+Matplotlib v3.1.3
+
 **Prerequisites**
 
 1. *Install Python 3.0 in your machine*: I recommend downloading Anaconda distribution for your machine (Windows/Mac) and installing it. See the following link https://www.anaconda.com/products/individual
